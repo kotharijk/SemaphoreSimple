@@ -1,0 +1,6 @@
+C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\bin\Debug\SemaphoreUsingMonitor.exe.config
+C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\bin\Debug\SemaphoreUsingMonitor.exe
+C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\bin\Debug\SemaphoreUsingMonitor.pdb
+C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\obj\Debug\SemaphoreUsingMonitor.csprojAssemblyReference.cache
+C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\obj\Debug\SemaphoreUsingMonitor.exe
+C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\obj\Debug\SemaphoreUsingMonitor.pdb

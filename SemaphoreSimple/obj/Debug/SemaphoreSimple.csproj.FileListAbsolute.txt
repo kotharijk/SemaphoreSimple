@@ -1,0 +1,5 @@
+C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\bin\Debug\SemaphoreSimple.exe.config
+C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\bin\Debug\SemaphoreSimple.exe
+C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\bin\Debug\SemaphoreSimple.pdb
+C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\obj\Debug\SemaphoreSimple.exe
+C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\obj\Debug\SemaphoreSimple.pdb
