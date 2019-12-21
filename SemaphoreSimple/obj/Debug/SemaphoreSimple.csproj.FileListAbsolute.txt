@@ -3,3 +3,9 @@ C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\bin\Debug\SemaphoreS
 C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\bin\Debug\SemaphoreSimple.pdb
 C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\obj\Debug\SemaphoreSimple.exe
 C:\JKK\Projects\SemaphoreUsingMonitor\SemaphoreUsingMonitor\obj\Debug\SemaphoreSimple.pdb
+C:\JKK\Projects\SemaphoreSimple\SemaphoreSimple\bin\Debug\SemaphoreSimple.exe.config
+C:\JKK\Projects\SemaphoreSimple\SemaphoreSimple\bin\Debug\SemaphoreSimple.exe
+C:\JKK\Projects\SemaphoreSimple\SemaphoreSimple\bin\Debug\SemaphoreSimple.pdb
+C:\JKK\Projects\SemaphoreSimple\SemaphoreSimple\obj\Debug\SemaphoreSimple.csprojAssemblyReference.cache
+C:\JKK\Projects\SemaphoreSimple\SemaphoreSimple\obj\Debug\SemaphoreSimple.exe
+C:\JKK\Projects\SemaphoreSimple\SemaphoreSimple\obj\Debug\SemaphoreSimple.pdb

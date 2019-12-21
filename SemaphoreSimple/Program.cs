@@ -143,13 +143,17 @@ namespace SemaphoreSimple
 
         static void SemaphoreSimpleDemo()
         {
-            Console.WriteLine($"***** {Thread.CurrentThread.Name} started");
+            Console.WriteLine($"      {Thread.CurrentThread.Name} started");
             
             semSimple.WaitOne(); // Try to enter the critical region
-                        
-            Thread.Sleep(_WorkerThreadSleepTime); // Pretend it is working very hard
-            
-            semSimple.Release(); // Exit from the critical region
+            try
+            {
+                Thread.Sleep(_WorkerThreadSleepTime); // Pretend it is working very hard
+            }
+            finally
+            {
+                semSimple.Release(); // Exit from the critical region
+            }
         }
     }
 }
